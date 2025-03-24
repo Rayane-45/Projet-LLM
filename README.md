@@ -29,7 +29,7 @@ Finally, replace the job url and the ./cv.pdf file
 Run QuickCoverLetter with the following command:
 ```bash
 bash create_cover_letter \
-  --job_url="https://www.linkedin.com/jobs/view/3778594855" \
+  --job_url="https://www.linkedin.com/jobs/view/4189910285/?alternateChannel=search&refId=SDVK%2BpPUNuAAKSNGljBnJA%3D%3D&trackingId=0ajJHj8XSduX%2FnGENz6z0g%3D%3D" \
   --cv_file_path="./cv.pdf" \
   --openai_api_key="<api_key>"
 ```
